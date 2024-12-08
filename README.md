@@ -1,1 +1,1 @@
-pict from unsplash
+image from unsplash
